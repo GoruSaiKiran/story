@@ -1,1 +1,3 @@
+This is a sample text demonstrating usage of git in chapter 3 in subbranch1. 
+This is a text document to test features of git in chapter  3 in subbranch1.
 
